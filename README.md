@@ -9,7 +9,7 @@ Currently, the commercial satellite data providers supported are:
 
 ## Installation
 
-The `satapi` package is available on `pypi` and can be easily installed via `pip`. For this, type the following comand in a terminal:
+The `satapi` package is available on `pypi` and can be easily installed via `pip`. For this, type the following command in a terminal:
 ```bash
 pip install satapi
 ```
